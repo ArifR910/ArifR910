@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>✨ About Me</b></summary>
   
-  I am an Informatics Engineering graduate transitioning into backend development, focusing on C# and .NET.
+  I am an Informatics Engineering graduate focusing on backend development with C# and .NET.
 
   <b>🚀 My Projects & Story</b>
   
