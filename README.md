@@ -70,9 +70,8 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔥 Contribution Activity
-
 <div align="center">
+<h3>🔥 Contribution Activity</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArifR910&theme=dark" alt="Arif's GitHub Streak" />
 </div>
 
